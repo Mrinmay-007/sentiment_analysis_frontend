@@ -3,7 +3,7 @@ const button = document.getElementById("predictBtn");
 const resultDiv = document.getElementById("result");
 const loading = document.getElementById("loading");
 
-server_url = 'https://sentiment-analysis-tkcn.onrender.com'
+server_url = 'https://sentiment-analysis-1-dt2t.onrender.com'
 
 
 // Emoji logic
